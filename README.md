@@ -1,6 +1,5 @@
 Features Still don't have
 _________________________
-- Showing logs.
 - Send Notification.
 
 Features high light
